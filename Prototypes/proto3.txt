@@ -1,0 +1,1 @@
+A constructor is a special method for creating and initializing an object, while a method/function is a property of an object.

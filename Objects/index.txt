@@ -1,0 +1,1 @@
+1.  An object is  a collecton of related data and/or functionality(which usually consist of several variables and function -  which are called properties and methods when they are inside an objects.)

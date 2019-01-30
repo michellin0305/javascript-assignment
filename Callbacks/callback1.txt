@@ -1,0 +1,1 @@
+A callback function is needed so we can pass a function as an argument in another function and later execute tha passed-in function or even return it to be executed later.
